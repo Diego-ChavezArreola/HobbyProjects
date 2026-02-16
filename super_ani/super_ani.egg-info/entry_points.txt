@@ -1,0 +1,2 @@
+[console_scripts]
+super_ani = super_ani.main:main

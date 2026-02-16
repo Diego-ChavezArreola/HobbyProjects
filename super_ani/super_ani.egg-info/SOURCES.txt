@@ -1,0 +1,9 @@
+setup.py
+super_ani/__init__.py
+super_ani/main.py
+super_ani/super_ani.py
+super_ani.egg-info/PKG-INFO
+super_ani.egg-info/SOURCES.txt
+super_ani.egg-info/dependency_links.txt
+super_ani.egg-info/entry_points.txt
+super_ani.egg-info/top_level.txt
