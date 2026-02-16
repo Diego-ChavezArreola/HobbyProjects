@@ -1,0 +1,12 @@
+README.md
+setup.py
+ankibuddy/__init__.py
+ankibuddy/__main__.py
+ankibuddy/ankibuddy.py
+ankibuddy/ankiconnect.py
+ankibuddy/config.py
+ankibuddy.egg-info/PKG-INFO
+ankibuddy.egg-info/SOURCES.txt
+ankibuddy.egg-info/dependency_links.txt
+ankibuddy.egg-info/entry_points.txt
+ankibuddy.egg-info/top_level.txt

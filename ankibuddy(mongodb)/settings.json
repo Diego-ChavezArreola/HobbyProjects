@@ -1,0 +1,89 @@
+{
+    "user_settings": {
+        "username": "baker",
+        "password": "C6gEsG3sKaBABpJr",
+        "deckName": "SentenceMining::Vocabulary",
+        "modelName": "Japanese Audio Vocabulary"
+    },
+    "options": {
+        "allowDuplicate": false,
+        "duplicateScope": "deck",
+        "duplicateScopeOptions": {
+            "deckName": "Default",
+            "checkChildren": false,
+            "checkAllModels": false
+        }
+    },
+    "note_settings": {
+        "curr_fields": [
+            "VocabKanji",
+            "VocabFurigana",
+            "VocabPitchPattern",
+            "VocabPitchNum",
+            "VocabDef",
+            "Notes",
+            "SentKanji",
+            "SentFurigana",
+            "SentEng",
+            "SentAudio",
+            "MorphManFocus",
+            "VocabAudio",
+            "Image",
+            "MakeProductionCard",
+            "MakeVocabCard",
+            "UseAudio",
+            "Keywords"
+        ]
+    },
+    "note_dict": {
+        "Basic-4f270::Japanese Audio Vocabulary": {
+            "Front": "VocabKanji",
+            "Back": "(None)"
+        },
+        "::Japanese Audio Vocabulary": {
+            "VocabKanji": "VocabKanji",
+            "VocabFurigana": "VocabFurigana",
+            "VocabPitchPattern": "VocabPitchPattern",
+            "VocabPitchNum": "VocabPitchNum",
+            "VocabDef": "VocabDef",
+            "Notes": "(None)",
+            "SentKanji": "SentKanji",
+            "SentFurigana": "(None)",
+            "SentEng": "SentEng",
+            "SentAudio": "SentAudio",
+            "MorphManFocus": "(None)",
+            "VocabAudio": "VocabAudio",
+            "Image": "Image",
+            "MakeProductionCard": "(None)",
+            "UseAudio": "(None)"
+        },
+        "Japanese Audio Vocabulary::Japanese Audio Vocabulary": {
+            "VocabKanji": "VocabKanji",
+            "VocabFurigana": "VocabFurigana",
+            "VocabPitchPattern": "VocabPitchPattern",
+            "VocabPitchNum": "VocabPitchNum",
+            "VocabDef": "VocabDef",
+            "Notes": "Notes",
+            "SentKanji": "SentKanji",
+            "SentFurigana": "SentFurigana",
+            "SentEng": "SentEng",
+            "SentAudio": "SentAudio",
+            "MorphManFocus": "MorphManFocus",
+            "VocabAudio": "VocabAudio",
+            "Image": "Image",
+            "MakeProductionCard": "MakeProductionCard",
+            "MakeVocabCard": "MakeVocabCard",
+            "UseAudio": "UseAudio",
+            "Keywords": "Keywords"
+        },
+        "Migaku Japanese Vocabulary::Japanese Audio Vocabulary": {
+            "Target Word": "VocabKanji",
+            "Sentence": "SentKanji",
+            "Translation": "SentEng",
+            "Definitions": "VocabDef",
+            "Image": "Image",
+            "Sentence Audio": "SentAudio",
+            "WordAudio": "VocabAudio"
+        }
+    }
+}
