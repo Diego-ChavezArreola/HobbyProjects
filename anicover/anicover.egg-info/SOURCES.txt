@@ -1,0 +1,10 @@
+README.md
+setup.py
+anicover/__init__.py
+anicover/__main__.py
+anicover/grabAnimeCover.py
+anicover.egg-info/PKG-INFO
+anicover.egg-info/SOURCES.txt
+anicover.egg-info/dependency_links.txt
+anicover.egg-info/entry_points.txt
+anicover.egg-info/top_level.txt
