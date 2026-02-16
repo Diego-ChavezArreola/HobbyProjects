@@ -1,0 +1,3 @@
+[console_scripts]
+ankibuddy = ankibuddy.__main__:main
+
